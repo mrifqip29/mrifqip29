@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mrifqip29
-- 👀 I’m interested in anything!
-- 🌱 I’m currently learning to become a Software Engineer
+👋 Hi, I’m @mrifqip29
+👀 I’m interested in anything!
+🌱 I’m currently learning to become a Software Engineer
 
-![](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif)
+![](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif) ![](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif)
 
 
 <!---
